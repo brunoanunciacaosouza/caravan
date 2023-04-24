@@ -16,10 +16,10 @@
 
 ### Pages/Paginas
 
-- Home/Inicio
+- Home
 - Locations/Locais
-- Plans/Planos
-- Contacts/Contatos
+- Plan/Plano
+- Contact/Contato
 - Sign up/Inscreva-se
 
 ### 🛠️ Tools/Ferramentas
